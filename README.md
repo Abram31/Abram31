@@ -4,6 +4,8 @@
 - 📫 How to reach me:
       Discord=> Abram31#1153,
       Telegram=> @artsiomabramovich
+      
+  <img src="https://www.codewars.com/users/Abram31/badges/large">
 ---      
 - ✨ My CV: https://abram31.github.io/rsschool-cv/ 
 - ✨ Video Self-introduction: https://www.youtube.com/watch?v=4ldUi5pVLoY     
