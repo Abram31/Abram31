@@ -7,7 +7,7 @@
       
   <img src="https://www.codewars.com/users/Abram31/badges/large" style="pointer-events:none">
 ---      
-- ✨ My CV: https://abram31.github.io/rsschool-cv/ 
+- ✨ My CV: https://abram31.github.io/cv-react/ 
 - ✨ Video Self-introduction: https://www.youtube.com/watch?v=4ldUi5pVLoY     
 - ✨ My LinkedIn: https://www.linkedin.com/in/artem-abramovich-45a06a230/
 
